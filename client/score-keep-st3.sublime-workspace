@@ -1,0 +1,986 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"title",
+				"titleCaseWord\t(str)"
+			],
+			[
+				"tit",
+				"titleCaseWords\t[]"
+			],
+			[
+				"titleC",
+				"titleCaseWords\t[]"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ad",
+				"addItem"
+			],
+			[
+				"get",
+				"getInput"
+			],
+			[
+				"budg",
+				"budgetCtrl〔argument〕"
+			],
+			[
+				"qu",
+				"question4"
+			],
+			[
+				"full",
+				"fullJapan〔variable〕"
+			],
+			[
+				"cal",
+				"calculateAge"
+			],
+			[
+				"arra",
+				"arrayCalc〔function〕"
+			],
+			[
+				"time",
+				"timeOfDay"
+			],
+			[
+				"ret",
+				"retirementIceland〔variable〕"
+			],
+			[
+				"des",
+				"designerQuestion〔variable〕"
+			],
+			[
+				"teac",
+				"teacher"
+			],
+			[
+				"O",
+				"Object.create"
+			],
+			[
+				"pers",
+				"personProto〔variable〕"
+			],
+			[
+				"points",
+				"pointsToWin〔variable〕"
+			],
+			[
+				"po",
+				"pointsToWin"
+			],
+			[
+				"act",
+				"activePlayer〔variable〕"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"rou",
+				"roundScore〔variable〕"
+			],
+			[
+				"print",
+				"printFullAge〔function〕"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"c",
+				"charset\tAttr"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"rem",
+				"removeNode〔function〕"
+			],
+			[
+				"sear",
+				"searchNode〔function〕"
+			],
+			[
+				"pri",
+				"printNode〔function〕"
+			],
+			[
+				"in",
+				"inOrderTraverseNode"
+			],
+			[
+				"wind",
+				"windDirection〔variable〕"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"timeO",
+				"timeOfSunrise"
+			],
+			[
+				"sun",
+				"sunriseTime"
+			],
+			[
+				"inter",
+				"intersectionSet"
+			],
+			[
+				"un",
+				"unionAB"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"prior",
+				"priorityQueue"
+			],
+			[
+				"pr",
+				"priorityQueue"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"star",
+				"startStr〔variable〕"
+			],
+			[
+				"tru",
+				"truncatedStr〔variable〕"
+			],
+			[
+				"re",
+				"reverseString"
+			],
+			[
+				"update",
+				"updateRecords〔function〕"
+			],
+			[
+				"ev",
+				"event.key"
+			],
+			[
+				"anim",
+				"animatedCircle"
+			],
+			[
+				"f",
+				"f7f7f7"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"todo",
+				"todoText〔variable〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"squ",
+				"squares〔variable〕"
+			],
+			[
+				"pick",
+				"pickedColor〔variable〕"
+			],
+			[
+				"pi",
+				"pickColor"
+			],
+			[
+				"pic",
+				"pickedColor〔variable〕"
+			],
+			[
+				"gen",
+				"generateRandomColors"
+			],
+			[
+				"ea",
+				"easyBtn"
+			],
+			[
+				"mes",
+				"messageDisplay〔variable〕"
+			],
+			[
+				"sq",
+				"squares"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ran",
+				"randomColor"
+			],
+			[
+				"cli",
+				"clickedColor〔variable〕"
+			],
+			[
+				"change",
+				"changeColors〔function〕"
+			],
+			[
+				"cl",
+				"clickedColor"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"winn",
+				"winningScoreDisplay〔variable〕"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"ne",
+				"newToDo"
+			],
+			[
+				"secret",
+				"secretNumber"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/freecodecamp/Beginning Algorithms/algorithmsPlayground.js",
+			"settings":
+			{
+				"buffer_size": 248,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/freecodecamp/Beginning Algorithms/index.html",
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 892.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageResourceViewer: Extract Package",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Starter Html"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"origami",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:install package",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1354.0
+	},
+	"console":
+	{
+		"height": 946.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Javascript Snippets/titleCase.js",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/client/main.html",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/client/main.js",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/imports/utils.js",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/client/score-keep-st3.sublime-project",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/server/main.js",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/imports/math.js",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/package.json",
+		"/C/Users/MrBobob/.bashrc",
+		"/D/freecodecamp/Beginning Algorithms/index.html",
+		"/D/freecodecamp/Beginning Algorithms/algorithmsPlayground.js",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/imports/app.js",
+		"/C/Users/MrBobob/Desktop/meteor/score-keep/app.js",
+		"/C/Users/MrBobob/Desktop/meteor/hello-meteor/client/main.css",
+		"/C/Users/MrBobob/.bashrc.swp",
+		"/D/freecodecamp/Beginning Algorithms/reverseString.js",
+		"/D/Javascript Snippets/reverse a string.js",
+		"/D/freecodecamp/Intermediate Projects/Weather/index.html",
+		"/D/Udemy/Jonas Schmedtmann/Build Responsive Websites/Omnifood/resources/css/style.css",
+		"/D/freecodecamp/Tribute Page/index.html",
+		"/D/Udemy/Jonas Schmedtmann/Build Responsive Websites/Omnifood/index.html",
+		"/D/Udemy/Jonas Schmedtmann/Build Responsive Websites/Omnifood/style.css",
+		"/D/Udemy/Jonas Schmedtmann/Build Responsive Websites/Omnifood/vendors/css/grid.css",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/D/Udemy/Jonas Schmedtmann/Build Responsive Websites/Omnifood/vendors/css/normalize.css",
+		"/D/Udacity/Responsive Images/RI-Project-Part-1-Start/css/main.css",
+		"/D/My Website/IP Address",
+		"/D/My Website/index.html",
+		"/C/Users/MrBobob/Downloads/convert.sh",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L5 Solution/index.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L5 Solution/main.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L5 Solution/final.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L5 Start/index.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L5 Start/main.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L5 Start/responsive.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/Home Town Project/index.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/Responsive Patterns/off canvas/style.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/Responsive Patterns/off canvas/index.html",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/widgets/Widget - Boxy Monokai.sublime-settings",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L4 Solution/index.html",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/User/sidebar_separator.sublime-settings",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/D/Udacity/Responsive Web Design Fundamentals/Responsive Patterns/layout shifter/index.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/Responsive Patterns/layout shifter/style.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/Responsive Patterns/mostly fluid/flex.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/Responsive Patterns/Column drop/index.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/Responsive Patterns/Column drop/style.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L4 Start/index.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/RWDF L4 Start/main.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/Home Town Project/pattern-mostly-fluid-quiz-blankcss.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/Home Town Project/over500.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/Home Town Project/flex.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/Home Town Project/flex.css",
+		"/D/Udemy/Jonas Schmedtmann/Responsive Design/blog post/index.html",
+		"/D/Udemy/Jonas Schmedtmann/Responsive Design/blog post/style.css",
+		"/D/Udemy/Jonas Schmedtmann/Responsive Design/index.html",
+		"/D/Wes Bos/JS30/JSDrum/index.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/Home Town Project/main.css",
+		"/C/Users/MrBobob/Desktop/flexbox-demo/index.html",
+		"/C/Users/MrBobob/Desktop/flexbox-demo/style.css",
+		"/C/Users/MrBobob/Desktop/index.html",
+		"/D/Udacity/Intro to HTML and CSS/Bootstrap and Other Frameworks/Mockup/index.html",
+		"/D/Udacity/Intro to HTML and CSS/Bootstrap and Other Frameworks/Mockup/css/style.css",
+		"/D/Udacity/Responsive Web Design Fundamentals/Portfolio/index.html",
+		"/D/Udacity/Responsive Web Design Fundamentals/Portfolio/bootstrap-prestructure.htm",
+		"/D/Udacity/Responsive Web Design Fundamentals/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm",
+		"/D/Udacity/Portfolio/Mockup/index.html",
+		"/D/Udacity/Portfolio/Mockup/css/style.css",
+		"/D/Udacity/Portfolio/Framework/css/main.css",
+		"/D/Udacity/Portfolio/Framework/index.html",
+		"/D/Udacity/Portfolio/Framework/css/style.css",
+		"/D/Udacity/Portfolio/Toplist/index.html",
+		"/D/Udacity/Portfolio/Toplist/style.css",
+		"/D/Udacity/HTML and CSS Lesson 1/div_soup_cleanup/index.html",
+		"/D/Udacity/HTML and CSS Lesson 1/div_soup_cleanup/css/styles.css",
+		"/D/Udacity/HTML and CSS Lesson 1/making-peach-ice-cream/index.html",
+		"/D/Udacity/HTML and CSS Lesson 1/making-peach-ice-cream/css/styles.css",
+		"/D/Udacity/HTML and CSS Lesson 1/Animal Cards Project/fend-animal-trading-cards-master/card.html",
+		"/D/Udacity/HTML and CSS Lesson 1/Animal Cards Project/fend-animal-trading-cards-master/styles.css",
+		"/D/Udacity/HTML and CSS Lesson 1/CSS Lessons/keyboard-shortcuts/start.html",
+		"/D/Udemy/Complete JS Course/6-Budgety-Final/index.html",
+		"/D/Udemy/Complete JS Course/6-Budgety-Final/app.js",
+		"/D/Udacity/HTML and CSS Lesson 1/CSS Lessons/keyboard-shortcuts/style.css",
+		"/D/Udacity/HTML and CSS Lesson 1/CSS Lessons/keyboard-shortcuts/finish.html",
+		"/D/Udacity/HTML and CSS Lesson 1/CSS Lessons/practice-keyboard-shortcuts/index.html",
+		"/D/Udacity/HTML and CSS Lesson 1/CSS Lessons/practice-keyboard-shortcuts/css/main.css",
+		"/D/Udemy/Complete JS Course/Section 7/7-EcmaScript2015/index.html",
+		"/D/Udemy/Complete JS Course/Section 7/7-EcmaScript2015/script.js",
+		"/D/ReactTimer/app/components/Test.js",
+		"/D/ReactTimer/app/components/Navigation.jsx",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/D/index.html",
+		"/D/Udemy/Complete JS Course/Budgety/Tex",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Alpenglow.sublime-package",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/MrBobob/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Udemy/Complete JS Course/Budgety/style.css",
+		"/D/Udemy/Complete JS Course/index.html",
+		"/C/Users/MrBobob/Downloads/fix-attempt-1/fix-attempt-1/public/components/Greeter.jsx",
+		"/D/Udemy/ReactBoilerplate/webpack.config.js",
+		"/C/Users/MrBobob/Downloads/fix-attempt-1/fix-attempt-1/public/app.jsx",
+		"/D/ReactWeather/package.json",
+		"/C/Users/MrBobob/Downloads/react-7-8-error-modal-pt-2/react-7-8-error-modal-pt-2/app/components/ErrorModal.jsx",
+		"/C/Users/MrBobob/.ssh/github_rsa.pub",
+		"/C/Users/MrBobob/Downloads/react-7-10-setting-up-scss/react-7-10-setting-up-scss/app/components/Nav.jsx",
+		"/C/Users/MrBobob/Downloads/react-7-10-setting-up-scss/react-7-10-setting-up-scss/app/components/Weather.jsx",
+		"/D/Udemy/Complete JS Course/Section 6/index.html",
+		"/C/Users/MrBobob/Downloads/react-4-6-custom-package-names/react-4-6-custom-package-names/webpack.config.js",
+		"/C/Users/MrBobob/AppData/Local/Temp/Temp1_react-4-6-custom-package-names.zip/react-4-6-custom-package-names/webpack.config.js",
+		"/C/Users/MrBobob/Downloads/react-4-6-custom-package-names/react-4-6-custom-package-names/public/index.html",
+		"/C/Users/MrBobob/Downloads/react-4-6-custom-package-names/react-4-6-custom-package-names/public/components/GreeterMessage.jsx",
+		"/C/Users/MrBobob/Downloads/react-4-6-custom-package-names/react-4-6-custom-package-names/public/components/Greeter.jsx",
+		"/C/Users/MrBobob/Desktop/HelloReact/public/app.jsx",
+		"/C/Users/MrBobob/Desktop/HelloReact/public/index.html",
+		"/C/Users/MrBobob/Desktop/HelloReact/server.js",
+		"/C/Users/MrBobob/Desktop/HelloReact/package.json",
+		"/D/Udemy/Complete JS Course/Section 6/app.js",
+		"/D/Udemy/Complete JS Course/Section 6/style.css",
+		"/C/Users/MrBobob/Downloads/hello.html",
+		"/D/Udemy/Complete JS Course/Section 6/6-Budgety/6-Budgety/index.html",
+		"/D/Udemy/Complete JS Course/Section 6/style,css",
+		"/D/Udemy/Complete JS Course/Section 5/Challenge 4/app.js"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			";\n",
+			">\n",
+			"      <li></li>\n",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/freecodecamp/Beginning Algorithms/algorithmsPlayground.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										154,
+										155
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										39,
+										40
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/freecodecamp/Beginning Algorithms/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 58.0
+	},
+	"input":
+	{
+		"height": 125.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 290.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 58.0
+	},
+	"pinned_build_system": "",
+	"project": "score-keep-st3.sublime-project",
+	"replace":
+	{
+		"height": 112.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 488.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
